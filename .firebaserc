@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "creditcard-fc3ab": {
+      "hosting": {
+        "app-creditcard": [
+          "creditcard-fc3ab"
+        ]
+      }
+    }
+  }
+}
